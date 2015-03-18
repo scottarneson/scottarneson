@@ -1,3 +1,8 @@
 div "doc"{
   background-image: url "http://fc02.deviantart.net/fs71/i/2012/359/e/3/paper_background_by_stickdudeseven-d5p5fts.jpg";
 }
+section {
+  float: left;
+  margin: 0 1.5%;
+  width: 63%;
+}
